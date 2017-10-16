@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System;
 
+//The clock script is inspired by the Unity tutorial for animating clocks. The actual prefab, however, was downloaded from the Asset Store.
+//This is mostly because I could not get the Udacity clock prefab, and its hands, to read the time from the system so it can operate in real time.
 public class ClockAnimator : MonoBehaviour
 {
 
